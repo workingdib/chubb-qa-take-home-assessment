@@ -1,0 +1,19 @@
+# Operating-system metadata
+.DS_Store
+
+# Java build output
+**/target/
+
+# Node/Next.js dependencies and build output
+**/node_modules/
+**/.next/
+
+# Test artifacts
+**/test-results/
+**/playwright-report/
+**/coverage/
+
+# Local environment files
+.env.local
+.env.*.local
+
